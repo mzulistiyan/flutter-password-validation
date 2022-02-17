@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508240733093",
+    "project_id": "motionhack-7b39d",
+    "storage_bucket": "motionhack-7b39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508240733093:android:3eb79f79d696ee6569be4c",
+        "android_client_info": {
+          "package_name": "com.hackthon.flutter_validate_password"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508240733093-p8v8tki540v9bjo0t2194f5bqohn1qtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkjwUUHMj3cXAfLP8ER3w361zKZwAmp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508240733093-p8v8tki540v9bjo0t2194f5bqohn1qtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
